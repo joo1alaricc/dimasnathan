@@ -1,1 +1,22 @@
-["6282245682288","6283840818197","6283878301449","639384364507"]
+[
+  {
+    "nomor": "6282245682288",
+    "username": "dev1",
+    "password": "dev11"
+  },
+  {
+    "nomor": "6283841571064",
+    "username": "dev2",
+    "password": "dev22"
+  },
+  {
+    "nomor": "6283878301449",
+    "username": "dev3",
+    "password": "dev33"
+  },
+  {
+    "nomor": "6285314014586",
+    "username": "dev4",
+    "password": "dev44"
+  }
+]
